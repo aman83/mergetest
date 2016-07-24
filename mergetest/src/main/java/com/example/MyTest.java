@@ -6,7 +6,7 @@ public class MyTest {
 
 
 
-		System.out.println("First line - update 6");
+		System.out.println("First line - update 7");
 		System.out.println("Second line");
 
 	}
